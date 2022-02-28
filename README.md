@@ -31,7 +31,7 @@ If there's any application not on the list, or anything not measured on this rep
 | Multi-Account| :white_check_mark:| (requires login) |
 | Account Sync | :x: | :white_check_mark: |
 | Import/Export | :white_check_mark:| :x: |
-| [Return Dislikes](https://github.com/Anarios/return-youtube-dislike)| :x: | :white_check_mark:|
+| [Return Dislikes](https://github.com/Anarios/return-youtube-dislike)| :x: | :x:| :x: | :white_check_mark |
 
 ## Inspirations
 
