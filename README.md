@@ -2,7 +2,7 @@
 A comparison of Open Source YouTube Frontends
 
 | | [Piped](https://github.com/TeamPiped/Piped) | [Invidious](https://github.com/iv-org/invidious) | [CloudTube](https://sr.ht/~cadence/tube) | [FreeTube](https://github.com/FreeTubeApp/FreeTube) |
-| :---: | :---: | :---: | :---: |
+| :---: | :---: | :---: | :---: | :---: |
 | Javascript Optional |:x:|:white_check_mark:|:white_check_mark:|
 | Sponsorblock Implemented |:white_check_mark:|:x:|:x:|
 | RSS support |(requires account)|:white_check_mark:|:x:|
