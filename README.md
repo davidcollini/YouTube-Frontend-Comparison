@@ -13,8 +13,7 @@ If there's any application not on the list, or anything not measured on this rep
 | RSS support |(requires account)|:white_check_mark:|:x:|
 | Subscriptions | (requires account) | (requires account) |:white_check_mark:|
 | LBRY integration | :white_check_mark: | :x: | :x: |
-| Account Support | :white_check_mark: | :white_check_mark: | :x: | 
-| Sync Support | :white_check_mark: | :white_check_mark: | :x: | 
+| Account Sync| :white_check_mark: | :white_check_mark: | :x: | 
 | Import/Export | :white_check_mark:|:white_check_mark:|:white_check_mark:|
 
 ## Applications
@@ -25,5 +24,5 @@ If there's any application not on the list, or anything not measured on this rep
 | Subscriptions | :white_check_mark:|
 | LBRY integration | :x: |
 | Account Support | :white_check_mark:|
-| Sync Support | :x: |
+| Sync | :x: |
 | Import/Export | :white_check_mark:|
