@@ -19,6 +19,7 @@ If there's any application not on the list, or anything not measured on this rep
 ## Applications
 | | [Freetube](https://github.com/FreeTubeApp/FreeTube) |
 | :---: | :---: |
+| Platforms | Desktop |
 | Fast | :white_check_mark:|
 | Sponsorblock Implemented |(Not customizable)|
 | Subscriptions | :white_check_mark:|
