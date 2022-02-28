@@ -15,19 +15,20 @@ If there's any application not on the list, or anything not measured on this rep
 | RSS support |(requires account)|:white_check_mark:|:x:| :x: |
 | LBRY integration | :white_check_mark: | :x: | :x: | :x: |
 | Account Sync| :white_check_mark: | :white_check_mark: | :x: | :white_check_mark: |
-| Import/Export | :white_check_mark:|:white_check_mark:|:white_check_mark:| :white_check_mark: |
+| Import/Export | :white_check_mark:|:white_check_mark:|:white_check_mark:| ✅ |
 
 ## Applications
-| | [Freetube](https://github.com/FreeTubeApp/FreeTube) |
-| :---: | :---: |
-| Platforms | Desktop |
-| Fast | :white_check_mark:|
-| Subscriptions | :white_check_mark:|
-| Sponsorblock Implemented |(Not customizable)|
-| LBRY integration | :x: |
-| Multi-Account| :white_check_mark:|
-| Account Sync | :x: |
-| Import/Export | :white_check_mark:|
+| | [Freetube](https://github.com/FreeTubeApp/FreeTube) | [Yattee](https://github.com/yattee/yattee) |
+| :---: | :---: | :---: |
+| Platforms | Desktop | MacOS, iOS + tvOS |
+| Fast | :white_check_mark:| :x: |
+| Intuitive | :white_check_mark: | :x: |
+| Subscriptions | :white_check_mark:| :white_check_mark: |
+| Sponsorblock Implemented |(Not customizable)| :white_check_mark: |
+| LBRY integration | :x: | :x: |
+| Multi-Account| :white_check_mark:| (requires login) |
+| Account Sync | :x: | :white_check_mark: |
+| Import/Export | :white_check_mark:| :x: |
 
 ## Inspirations
 
