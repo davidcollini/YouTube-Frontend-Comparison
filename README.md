@@ -7,6 +7,7 @@ A comparison of Open Source YouTube Frontends
 | Sponsorblock Implemented |:white_check_mark:|:x:|:x:|
 | RSS support |(requires account)|:white_check_mark:|:x:|
 | Subscriptions | (requires account) | (requires account) |:white_check_mark:|
+| LBRY integration | :white_check_mark: | :x: | :x: |
 
 
 # Why I created this project
