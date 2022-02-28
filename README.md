@@ -26,3 +26,8 @@ If there's any application not on the list, or anything not measured on this rep
 | Account Support | :white_check_mark:|
 | Account Sync | :x: |
 | Import/Export | :white_check_mark:|
+
+## Inspirations
+
+- [PrivacyTests](https://privacytests.org) - an open-source testing program that measures browser privacy characteristics
+- [Secure Messaging Apps](https://www.securemessagingapps.com) - a comprehensive website that reviews and compares the security/privacy of messaging apps 
