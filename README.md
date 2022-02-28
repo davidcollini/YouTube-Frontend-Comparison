@@ -1,4 +1,4 @@
-### Web Based
+## Web Based
 | | [Piped](https://github.com/TeamPiped/Piped) | [Invidious](https://github.com/iv-org/invidious) | [CloudTube](https://sr.ht/~cadence/tube) | [FreeTube](https://github.com/FreeTubeApp/FreeTube) |
 | :---: | :---: | :---: | :---: | :---: |
 | Javascript Optional |:x:|:white_check_mark:|:white_check_mark:| :white_check_mark:
