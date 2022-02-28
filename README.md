@@ -21,7 +21,7 @@ If there's any application not on the list, or anything not measured on this rep
 | | [Freetube](https://github.com/FreeTubeApp/FreeTube) |
 | :---: | :---: |
 | Fast | :white_check_mark:|
-| Sponsorblock Implemented |(No customization)|
+| Sponsorblock Implemented |(Not customizable)|
 | Subscriptions | :white_check_mark:|
 | LBRY integration | :x: |
 | Account Support | :white_check_mark:|
