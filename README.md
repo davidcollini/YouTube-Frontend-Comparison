@@ -5,7 +5,7 @@ A comparison of Open Source YouTube Frontends
 | :---: | :---: | :---: | :---: |
 |Javascript Optional |:x:|:white_check_mark:|:white_check_mark:|
 |Sponsorblock Implemented|:white_check_mark:|:x:|:x:|
-|RSS support |:heavy_check_mark:(requires account)|:white_check_mark:|:x:|
+|RSS support |(requires account)|:white_check_mark:|:x:|
 |
 
 # Why I created this project
