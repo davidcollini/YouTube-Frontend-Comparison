@@ -8,6 +8,7 @@ A comparison of Open Source YouTube Frontends
 | RSS support |(requires account)|:white_check_mark:|:x:| :white_check_mark:
 | Subscriptions | (requires account) | (requires account) |:white_check_mark:| :white_check_mark: |
 | LBRY integration | :white_check_mark: | :x: | :x: | :x:
+| Account Support | :white_check_mark: | :white_check_mark: | :x: | :white_check_mark: |
 
 
 # Why I created this project
