@@ -24,5 +24,5 @@ If there's any application not on the list, or anything not measured on this rep
 | Subscriptions | :white_check_mark:|
 | LBRY integration | :x: |
 | Account Support | :white_check_mark:|
-| Sync | :x: |
+| Account Sync | :x: |
 | Import/Export | :white_check_mark:|
