@@ -20,7 +20,7 @@ If there's any application not on the list, or anything not measured on this rep
 ## Applications
 | | [Freetube](https://github.com/FreeTubeApp/FreeTube) | [Yattee](https://github.com/yattee/yattee) |
 | :---: | :---: | :---: |
-| Platforms | Desktop | MacOS, iOS + tvOS |
+| Platforms | Desktop | Mac iOS tvOS |
 | Fast | :white_check_mark:| :x: |
 | Intuitive | :white_check_mark: | :x: |
 | Subscriptions | :white_check_mark:| :white_check_mark: |
