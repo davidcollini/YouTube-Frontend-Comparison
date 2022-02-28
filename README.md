@@ -9,13 +9,13 @@ If there's any application not on the list, or anything not measured on this rep
 | :---: | :---: | :---: | :---: | :---: |
 | Fast | :white_check_mark:| :white_check_mark:| :white_check_mark: | :x: |
 | Subscriptions | (requires account) | (requires account) |:white_check_mark:| (requires account) |
+| Comments | :white_check_mark:|:white_check_mark:| :x: | ✅ |
 | Javascript Optional |:x:|:white_check_mark:|:white_check_mark:| :x: |
 | Sponsorblock Implemented |:white_check_mark:|:x:|:x:| :white_check_mark:|
 | RSS support |(requires account)|:white_check_mark:|:x:| :x: |
 | LBRY integration | :white_check_mark: | :x: | :x: | :x: |
 | Account Sync| :white_check_mark: | :white_check_mark: | :x: | :white_check_mark: |
 | Import/Export | :white_check_mark:|:white_check_mark:|:white_check_mark:| :white_check_mark: |
-| Comments | :white_check_mark:|:white_check_mark:| :x: | ✅ |
 
 ## Applications
 | | [Freetube](https://github.com/FreeTubeApp/FreeTube) |
