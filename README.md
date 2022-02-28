@@ -18,9 +18,10 @@ If there's any application not on the list, or anything not measured on this rep
 | Import/Export | :white_check_mark:|:white_check_mark:|:white_check_mark:| ✅ |
 
 ## Applications
-| | [Freetube](https://github.com/FreeTubeApp/FreeTube) | [Yattee](https://github.com/yattee/yattee) |
-| :---: | :---: | :---: |
+| | [Freetube](https://github.com/FreeTubeApp/FreeTube) | [Yattee](https://github.com/yattee/yattee) | [NewPipe](https://github.com/TeamNewPipe/NewPipe) | [Vanced](https://vancedapp.com) |
+| :---: | :---: | :---: | :---: | :---: |
 | Platforms | Desktop | Mac iOS tvOS |
+| Open Source | ✅  | ✅  | ✅ | ❌ |
 | Fast | :white_check_mark:| :x: |
 | Intuitive | :white_check_mark: | :x: |
 | Subscriptions | :white_check_mark:| :white_check_mark: |
