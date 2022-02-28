@@ -11,11 +11,12 @@ If there's any application not on the list, or anything not measured on this rep
 | Subscriptions | (requires account) | (requires account) |:white_check_mark:| (requires account) |
 | Comments | :white_check_mark:|:white_check_mark:| :x: | ✅ |
 | Javascript Optional |:x:|:white_check_mark:|:white_check_mark:| :x: |
-| Sponsorblock Implemented |:white_check_mark:|:x:|:x:| :white_check_mark:|
+| [Sponsorblock](https://github.com/ajayyy/SponsorBlock)|:white_check_mark:|:x:|:x:| :white_check_mark:|
 | RSS support |(requires account)|:white_check_mark:|:x:| :x: |
 | LBRY integration | :white_check_mark: | :x: | :x: | :x: |
 | Account Sync| :white_check_mark: | :white_check_mark: | :x: | :white_check_mark: |
 | Import/Export | :white_check_mark:|:white_check_mark:|:white_check_mark:| ✅ |
+| [Return Dislikes](https://github.com/Anarios/return-youtube-dislike)| :x: | :x: | :x: | :x: |
 
 ## Applications
 | | [Freetube](https://github.com/FreeTubeApp/FreeTube) | [Yattee](https://github.com/yattee/yattee) | [NewPipe](https://github.com/TeamNewPipe/NewPipe) | [Vanced](https://vancedapp.com) |
@@ -25,11 +26,12 @@ If there's any application not on the list, or anything not measured on this rep
 | Fast | :white_check_mark:| :x: | :white_check_mark:| :white_check_mark:|
 | Intuitive | :white_check_mark: | :x: | :white_check_mark:| :white_check_mark:|
 | Subscriptions | :white_check_mark:| :white_check_mark: | :white_check_mark:| :white_check_mark:|
-| Sponsorblock Implemented |(Not customizable)| :white_check_mark: |❌ | ✅ |
+| [Sponsorblock](https://github.com/ajayyy/SponsorBlock) |(Not customizable)| :white_check_mark: |❌ | ✅ |
 | LBRY integration | :x: | :x: | :x: | :x: |
 | Multi-Account| :white_check_mark:| (requires login) |
 | Account Sync | :x: | :white_check_mark: |
 | Import/Export | :white_check_mark:| :x: |
+| [Return Dislikes](https://github.com/Anarios/return-youtube-dislike)| :x: | :white_check_mark:|
 
 ## Inspirations
 
