@@ -26,7 +26,7 @@ If there's any application not on the list, or anything not measured on this rep
 | Intuitive | :white_check_mark: | :x: | :white_check_mark:| :white_check_mark:|
 | Subscriptions | :white_check_mark:| :white_check_mark: | :white_check_mark:| :white_check_mark:|
 | Sponsorblock Implemented |(Not customizable)| :white_check_mark: |❌ | ✅ |
-| LBRY integration | :x: | :x: |
+| LBRY integration | :x: | :x: | :x: | :x: |
 | Multi-Account| :white_check_mark:| (requires login) |
 | Account Sync | :x: | :white_check_mark: |
 | Import/Export | :white_check_mark:| :x: |
