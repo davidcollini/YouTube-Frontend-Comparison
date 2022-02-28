@@ -15,7 +15,7 @@ If there's any application not on the list, or anything not measured on this rep
 | LBRY integration | :white_check_mark: | :x: | :x: |
 | Account Support | :white_check_mark: | :white_check_mark: | :x: | 
 | Sync Support | :white_check_mark: | :white_check_mark: | :x: | 
-| Import/Export | :white_check_mark:|
+| Import/Export | :white_check_mark:|:white_check_mark:|:white_check_mark:|
 
 ## Applications
 | | [Freetube](https://github.com/FreeTubeApp/FreeTube) |
