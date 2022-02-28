@@ -1,5 +1,3 @@
-# YouTube-Frontend-Comparison
-
 ### Web Based
 | | [Piped](https://github.com/TeamPiped/Piped) | [Invidious](https://github.com/iv-org/invidious) | [CloudTube](https://sr.ht/~cadence/tube) | [FreeTube](https://github.com/FreeTubeApp/FreeTube) |
 | :---: | :---: | :---: | :---: | :---: |
