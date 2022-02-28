@@ -1,11 +1,4 @@
 # YouTube-Frontend-Comparison
 A comparison of Open Source YouTube Frontends
 
-I've found that while many open source frontends for 
-watching YouTube 
-privately exist, there's no central source that allows 
-users to compare these projects, and otherwise requires 
-a user to test which project suits them best by testing 
-each project one at a time. This project aims to 
-streamline the process of picking a private way to watch
-YouTube.
+I've found that while many open source projects exist for watching YouTube privately, there was no central way that would allow a user to compare these projects, and otherwise required a user to find out which project suited them best by testing each individually. So this repository aims to streamline the process of picking a frontend to watch YouTube.
