@@ -7,10 +7,10 @@ If there's any application not on the list, or anything not measured on this rep
 ## Web Based
 | | [Piped](https://github.com/TeamPiped/Piped) | [Invidious](https://github.com/iv-org/invidious) | [CloudTube](https://sr.ht/~cadence/tube) | [ViewTube](https://github.com/ViewTube/viewtube-vue) |
 | :---: | :---: | :---: | :---: | :---: |
-| Fast | :white_check_mark:| :white_check_mark:| :white_check_mark: | :white_check_mark|
+| Fast | :white_check_mark:| :white_check_mark:| :white_check_mark: | :x: |
 | Subscriptions | (requires account) | (requires account) |:white_check_mark:| (requires account) |
 | Comments | :white_check_mark:|:white_check_mark:| :x: | ✅ |
-| Javascript Optional |:x:|:white_check_mark:|:white_check_mark:| ✅ |
+| Javascript Optional |:x:|:white_check_mark:|:white_check_mark:| :x: |
 | [Sponsorblock](https://github.com/ajayyy/SponsorBlock)|:white_check_mark:|:x:|:x:| :white_check_mark:|
 | RSS support |(requires account)|:white_check_mark:|:x:| :x: |
 | [LBRY](https://github.com/lbryio/lbry-desktop) integration | :white_check_mark: | :x: | :x: | :x: |
@@ -28,10 +28,9 @@ If there's any application not on the list, or anything not measured on this rep
 | Subscriptions | :white_check_mark:| :white_check_mark: | :white_check_mark:| :white_check_mark:|
 | [Sponsorblock](https://github.com/ajayyy/SponsorBlock) |(Not customizable)| :white_check_mark: |❌ | ✅ |
 | [LBRY](https://github.com/lbryio/lbry-desktop) integration | :x: | :x: | :x: | :x: |
-| Multi-Account| :white_check_mark:| (requires login) |
-| Account Sync | :x: | :white_check_mark: |
-| Import/Export | :white_check_mark:| :x: |
-| [Return Dislikes](https://github.com/Anarios/return-youtube-dislike)| :x: | :x:| :x: | :white_check_mark: |
+| Multi-Account| :white_check_mark:| (requires login) | :x: | :x: |
+| Import/Export | :white_check_mark:| :x: |:white_check_mark:|:white_check_mark:|
+| [Return Dislikes](https://github.com/Anarios/return-youtube-dislike)| :x: | :white_check_mark:|
 
 ## Inspirations
 
