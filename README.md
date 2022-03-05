@@ -33,6 +33,5 @@ If there's any application not on the list, or anything not measured in this rep
 | [Return Dislikes](https://github.com/Anarios/return-youtube-dislike)| :x: | :x: | :x: | :white_check_mark:|
 
 ## Inspirations
-
 - [PrivacyTests](https://privacytests.org) - an open-source testing program that measures browser privacy characteristics
 - [Secure Messaging Apps](https://www.securemessagingapps.com) - a comprehensive website that reviews and compares the security/privacy of messaging apps 
