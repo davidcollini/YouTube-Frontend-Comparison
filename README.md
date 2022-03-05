@@ -1,5 +1,5 @@
 # YouTube-Frontend-Comparison
-This repository serves as a central way to compare open source frontends for YouTube
+This repository serves as a central way to compare alternative frontends for YouTube
 
 ## Call to Action
 If there's any application not on the list, or anything not measured on this repo, feel free to create an issue and let me know
