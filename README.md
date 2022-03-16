@@ -19,18 +19,18 @@ If there's any application not on the list, or anything not measured in this rep
 | [Return Dislikes](https://github.com/Anarios/return-youtube-dislike)| :x: | :x: | :x: | :x: |
 
 ## Applications
-| | [Freetube](https://github.com/FreeTubeApp/FreeTube) | [Yattee](https://github.com/yattee/yattee) | [NewPipe](https://github.com/TeamNewPipe/NewPipe) | [Vanced](https://vancedapp.com) |
-| :---: | :---: | :---: | :---: | :---: |
-| Platforms | Desktop | Mac iOS tvOS | Android | Android |
-| Open Source | ✅  | ✅  | ✅ | ❌ |
-| Fast | :white_check_mark:| :x: | :white_check_mark:| :white_check_mark:|
-| Intuitive | :white_check_mark: | :x: | :white_check_mark:| :white_check_mark:|
-| Subscriptions | :white_check_mark:| :white_check_mark: | :white_check_mark:| :white_check_mark:|
-| [Sponsorblock](https://github.com/ajayyy/SponsorBlock) |(Not customizable)| :white_check_mark: |❌ | ✅ |
-| [LBRY](https://github.com/lbryio/lbry-desktop) integration | :x: | :x: | :x: | :x: |
-| Multi-Account| :white_check_mark:| (requires login) | :x: | :x: |
-| Import/Export | :white_check_mark:| :x: |:white_check_mark:|:white_check_mark:|
-| [Return Dislikes](https://github.com/Anarios/return-youtube-dislike)| :x: | :x: | :x: | :white_check_mark:|
+| | [Freetube](https://github.com/FreeTubeApp/FreeTube) | [Yattee](https://github.com/yattee/yattee) | [NewPipe](https://github.com/TeamNewPipe/NewPipe)|
+| :---: | :---: | :---: | :---: |
+| Platforms | Desktop | Mac iOS tvOS | Android |
+| Open Source | ✅  | ✅  | ✅ |
+| Fast | :white_check_mark:| :x: | :white_check_mark:|
+| Intuitive | :white_check_mark: | :x: | :white_check_mark:|
+| Subscriptions | :white_check_mark:| :white_check_mark: | :white_check_mark:|
+| [Sponsorblock](https://github.com/ajayyy/SponsorBlock) |(Not customizable)| :white_check_mark: |❌ |
+| [LBRY](https://github.com/lbryio/lbry-desktop) integration | :x: | :x: | :x: |
+| Multi-Account| :white_check_mark:| (requires login) | :x: |
+| Import/Export | :white_check_mark:| :x: |:white_check_mark:|
+| [Return Dislikes](https://github.com/Anarios/return-youtube-dislike)| :x: | :x: | :x: |
 
 ## Inspirations
 - [PrivacyTests](https://privacytests.org) - an open-source testing program that measures browser privacy characteristics
