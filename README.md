@@ -16,7 +16,7 @@ If there's any application not on the list, or anything not measured in this rep
 | [LBRY](https://github.com/lbryio/lbry-desktop) integration | :white_check_mark: | :x: | :x: | :x: |
 | Account Sync| :white_check_mark: | :white_check_mark: | :x: | :white_check_mark: |
 | Import/Export | :white_check_mark:|:white_check_mark:|:white_check_mark:| ✅ |
-| [Return Dislikes](https://github.com/Anarios/return-youtube-dislike)| :x: | :x: | :x: | :x: |
+| [Return Dislikes](https://github.com/Anarios/return-youtube-dislike)| :x: | :x: | :x: | ✅ |
 
 ## Applications
 | | [Freetube](https://github.com/FreeTubeApp/FreeTube) | [Yattee](https://github.com/yattee/yattee) | [NewPipe](https://github.com/TeamNewPipe/NewPipe)|
