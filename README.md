@@ -8,15 +8,15 @@ If there's any application not on the list, or anything not measured in this rep
 | | [Piped](https://github.com/TeamPiped/Piped) | [Invidious](https://github.com/iv-org/invidious) | [CloudTube](https://sr.ht/~cadence/tube) | [ViewTube](https://github.com/ViewTube/viewtube-vue) |
 | :---: | :---: | :---: | :---: | :---: |
 | Fast | :white_check_mark:| :white_check_mark:| :white_check_mark: | :x: |
-| Subscriptions | (requires account) | (requires account) |:white_check_mark:| (requires account) |
+| Subscriptions | :white_check_mark: | (requires account) |:white_check_mark:| (requires account) |
 | Comments | :white_check_mark:|:white_check_mark:| :x: | ✅ |
 | Javascript Optional |:x:|:white_check_mark:|:white_check_mark:| ✅ |
 | [Sponsorblock](https://github.com/ajayyy/SponsorBlock)|:white_check_mark:|:x:|:x:| :white_check_mark:|
-| RSS support |(requires account)|:white_check_mark:|:x:| :x: |
+| RSS support | :white_check_mark: |:white_check_mark:|:x:| :x: |
 | [LBRY](https://github.com/lbryio/lbry-desktop) integration | :white_check_mark: | :x: | :x: | :x: |
 | Account Sync| :white_check_mark: | :white_check_mark: | :x: | :white_check_mark: |
 | Import/Export | :white_check_mark:|:white_check_mark:|:white_check_mark:| ✅ |
-| [Return Dislikes](https://github.com/Anarios/return-youtube-dislike)| :x: | :x: | :x: | ✅ |
+| [Return Dislikes](https://github.com/Anarios/return-youtube-dislike)| :white_check_mark: | :x: | :x: | ✅ |
 
 ## Applications
 | | [Freetube](https://github.com/FreeTubeApp/FreeTube) | [Yattee](https://github.com/yattee/yattee) | [NewPipe](https://github.com/TeamNewPipe/NewPipe)|
