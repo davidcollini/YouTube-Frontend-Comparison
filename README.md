@@ -12,7 +12,8 @@ If there's any application not on the list, or anything not measured in this rep
 | Comments | :white_check_mark:|:white_check_mark:| :x: | ✅ |
 | Javascript Optional |:x:|:white_check_mark:|:white_check_mark:| ✅ |
 | [Sponsorblock](https://github.com/ajayyy/SponsorBlock)|:white_check_mark:|:x:|:x:| :white_check_mark:|
-| RSS support | :white_check_mark: |:white_check_mark:|:x:| :x: |
+| Subscriptions RSS | :white_check_mark: |:x:|:x:| :x: |
+| Per Channel RSS | :x: |:white_check_mark:|:x:| :x: |
 | [LBRY](https://github.com/lbryio/lbry-desktop) integration | :white_check_mark: | :x: | :x: | :x: |
 | Account Sync| :white_check_mark: | :white_check_mark: | :x: | :white_check_mark: |
 | Import/Export | :white_check_mark:|:white_check_mark:|:white_check_mark:| ✅ |
