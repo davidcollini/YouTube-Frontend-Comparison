@@ -14,7 +14,8 @@ If there's any application not on the list, or anything not measured in this rep
 | [Sponsorblock](https://github.com/ajayyy/SponsorBlock)|:white_check_mark:|:x:|:x:| :white_check_mark:|
 | Subscriptions RSS | :white_check_mark: |:x:|:x:| :x: |
 | Per Channel RSS | :x: |:white_check_mark:|:x:| :x: |
-| [LBRY](https://github.com/lbryio/lbry-desktop) integration | :white_check_mark: | :x: | :x: | :x: |
+| [LBRY](https://github.com/lbryio/lbry-desktop) streaming | :white_check_mark: | :x: | :x: | :x: |
+| Watch on LBRY | ✅ | :x: | :x: | :x: |
 | Account Sync| :white_check_mark: | :white_check_mark: | :x: | :white_check_mark: |
 | Import/Export | :white_check_mark:|:white_check_mark:|:white_check_mark:| ✅ |
 | [Return Dislikes](https://github.com/Anarios/return-youtube-dislike)| :white_check_mark: | :x: | :x: | ✅ |
@@ -27,7 +28,8 @@ If there's any application not on the list, or anything not measured in this rep
 | Fast | :white_check_mark:| :x: | :white_check_mark:|  ✅ |
 | Subscriptions | :white_check_mark:| :white_check_mark: | :white_check_mark:|  (requires login) |
 | [Sponsorblock](https://github.com/ajayyy/SponsorBlock) |(Not customizable)| :white_check_mark: |❌ | ✅ |
-| [LBRY](https://github.com/lbryio/lbry-desktop) integration | :x: | :x: | :x: | ✅ |
+| [LBRY](https://github.com/lbryio/lbry-desktop) streaming | :x: | :x: | :x: | ✅ |
+| Watch on LBRY | :x: | :x: | :x: | :x: |
 | Multi-Account| :white_check_mark:| (requires login) | :x: | ❌ |
 | Import/Export | :white_check_mark:| :x: |:white_check_mark:| ✅ |
 | [Return Dislikes](https://github.com/Anarios/return-youtube-dislike)| :x: | :x: | :x: | ✅ |
