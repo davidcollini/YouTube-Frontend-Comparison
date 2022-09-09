@@ -13,7 +13,7 @@ If there's any application not on the list, or anything not measured in this rep
 | Javascript Optional |:x:|:white_check_mark:|:white_check_mark:| ✅ |
 | [Sponsorblock](https://github.com/ajayyy/SponsorBlock)|:white_check_mark:|:x:|:x:| :white_check_mark:|
 | Subscriptions RSS | :white_check_mark: |:x:|:x:| :x: |
-| Per Channel RSS | :x: |:white_check_mark:|:x:| :x: |
+| Per Channel RSS | ✅ |:white_check_mark:|:x:| :x: |
 | [LBRY](https://github.com/lbryio/lbry-desktop) streaming | :white_check_mark: | :x: | :x: | :x: |
 | Watch on LBRY | ✅ | :x: | :x: | :x: |
 | Account Sync| :white_check_mark: | :white_check_mark: | :x: | :white_check_mark: |
