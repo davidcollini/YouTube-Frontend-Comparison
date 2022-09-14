@@ -1,9 +1,6 @@
 # YouTube-Frontend-Comparison
 This repository serves as a central way to compare alternative frontends for YouTube
 
-## Call to Action
-If there's any application not on the list, or anything not measured in this repo, feel free to create an issue or pull request and let me know
-
 ## Web Based
 | | [Piped](https://github.com/TeamPiped/Piped) | [Invidious](https://github.com/iv-org/invidious) | [CloudTube](https://sr.ht/~cadence/tube) | [ViewTube](https://github.com/ViewTube/viewtube-vue) |
 | :---: | :---: | :---: | :---: | :---: |
