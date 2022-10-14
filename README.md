@@ -30,7 +30,7 @@ This repository serves as a central way to compare alternative frontends for You
 | [Sponsorblock](https://github.com/ajayyy/SponsorBlock) | :white_check_mark: | :white_check_mark: |❌ | ✅ |
 | [LBRY](https://github.com/lbryio/lbry-desktop) streaming | :x: | :x: | :x: | ✅ |
 | Watch on LBRY | :x: | :x: | :x: | :x: |
-| Multi-Account| :white_check_mark:| requires login | :x: | ❌ |
+| Multi-Account| :white_check_mark:| ✅ <br /> requires login | :x: | ❌ |
 | Import/Export | :white_check_mark:| :x: |:white_check_mark:| ✅ |
 | [Return Dislikes](https://github.com/Anarios/return-youtube-dislike)| :x: | :x: | :x: | ✅ |
 
