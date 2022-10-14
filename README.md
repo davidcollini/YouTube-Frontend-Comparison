@@ -199,5 +199,5 @@ This repository serves as a central way to compare alternative frontends for You
 </table>
 
 ## Inspirations
-- [PrivacyTests](https://privacytests.org) - an open-source testing program that measures browser privacy characteristics
-- [Secure Messaging Apps](https://www.securemessagingapps.com) - a comprehensive website that reviews and compares the security/privacy of messaging apps 
+- <a href="https://privacytests.org">PrivacyTests</a> - an open-source testing program that measures browser privacy characteristics
+- <a href="https://www.securemessagingapps.com">SecureMessagingApps</a> - a comprehensive website that reviews and compares the security/privacy of messaging apps 
