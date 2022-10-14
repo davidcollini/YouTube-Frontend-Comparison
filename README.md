@@ -1,4 +1,11 @@
 <html>
+<head>
+<style>
+  body {
+  background-color: #333;
+}
+</style>
+</head>
   <header>
     <h1>YouTube Frontend Comparison</h1>
     <h2>This repository serves as a central way to compare alternative frontends for YouTube</h2>
