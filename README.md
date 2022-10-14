@@ -119,7 +119,7 @@
   </tr>
  </table>
 
-## Applications
+<h3>Applications</h3>
 <table>
   <tr>
     <th></th>
@@ -200,7 +200,9 @@
   </tr>
 </table>
 
-## Inspirations
-- <a href="https://privacytests.org">PrivacyTests</a> - an open-source testing program that measures browser privacy characteristics
-- <a href="https://www.securemessagingapps.com">SecureMessagingApps</a> - a comprehensive website that reviews and compares the security/privacy of messaging apps 
+<h2>Inspirations</h2>
+  <ul>
+    <li><a href="https://privacytests.org">PrivacyTests</a> - an open-source testing program that measures browser privacy characteristics </li>
+    <li><a href="https://www.securemessagingapps.com">SecureMessagingApps</a> - a comprehensive website that reviews and compares the security/privacy of messaging apps</li>
+  </ul>
 </html>
