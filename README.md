@@ -2,37 +2,201 @@
 This repository serves as a central way to compare alternative frontends for YouTube
 
 ## Web Based
-| | [Piped](https://github.com/TeamPiped/Piped) | [Invidious](https://github.com/iv-org/invidious) | [CloudTube](https://sr.ht/~cadence/tube) | [ViewTube](https://github.com/ViewTube/viewtube-vue) |
-| :---: | :---: | :---: | :---: | :---: |
-| Fast | :white_check_mark:| :white_check_mark:| :white_check_mark: | :x: |
-| Subscriptions | :white_check_mark: | :white_check_mark: <br /> requires account |:white_check_mark:| :white_check_mark: <br /> requires account |
-| Comments | :white_check_mark:|:white_check_mark:| :x: | ✅ |
-| Javascript Optional |:x:|:white_check_mark:|:white_check_mark:| ✅ <br /> [Not every feature](https://github.com/ViewTube/viewtube-vue/issues/2#issuecomment-1057513500) |
-| [Sponsorblock](https://github.com/ajayyy/SponsorBlock)|:white_check_mark:|with [extension](https://github.com/ajayyy/SponsorBlock)|with [extension](https://github.com/ajayyy/SponsorBlock)| :white_check_mark:|
-| Subscriptions RSS | :white_check_mark: |:x:|:x:| :x: |
-| Per Channel RSS | ✅ |:white_check_mark:|:x:| :x: |
-| [LBRY](https://github.com/lbryio/lbry-desktop) streaming | :white_check_mark: | :x: | :x: | :x: |
-| Watch on LBRY | ✅ | :x: | :x: | :x: |
-| Account Sync| :white_check_mark: | :white_check_mark: | :x: | :white_check_mark: |
-| Import/Export | :white_check_mark:|:white_check_mark:|:white_check_mark:| ✅ |
-| [Return Dislikes](https://github.com/Anarios/return-youtube-dislike)| :white_check_mark: | :x: | :x: | ✅ |
-| User playlists | :white_check_mark: | :white_check_mark: | :x: | :x: |
-| Watch history | :white_check_mark: <br /> stored locally | :white_check_mark: <br /> requires account | :x: | :x: |
-| Works on ancient devices and browsers | :x: | :white_check_mark: | :white_check_mark: | :x: |
+<table>
+  <tr>
+    <th> </th>
+    <th><a href="https://github.com/TeamPiped/Piped">Piped</a></th>
+    <th><a href="https://github.com/iv-org/invidious">Invidious</a></th>
+    <th><a href="https://sr.ht/~cadence/tube">Cloudtube</a></th>
+    <th><a href="https://github.com/ViewTube/viewtube-vue">Viewtube</a></th>
+  </tr>
+  <tr>
+    <th>Fast</th>
+    <th>✅</th>
+    <th>✅</th>
+    <th>✅</th>
+    <th>❌</th>
+  </tr>
+  <tr>
+    <th>Subscriptions</th>
+    <th>✅</th>
+    <th>✅ <br /> requires account</th>
+    <th>✅</th>
+    <th>✅ <br /> requires account</th>
+  </tr>
+  <tr>
+    <th>Comments</th>
+    <th>✅</th>
+    <th>✅</th>
+    <th>❌</th>
+    <th>✅</th>
+  </tr>
+  <tr>
+    <th>Javascript Optional</th>
+    <th>❌</th>
+    <th>✅</th>
+    <th>✅</th>
+    <th>✅ <br /><a href="https://github.com/ViewTube/viewtube-vue/issues/2#issuecomment-1057513500">Not every feature</a></th>
+  </tr>
+  <tr>
+    <th><a href="https://github.com/ajayyy/SponsorBlock">Sponsorblock</a></th>
+    <th>✅</th>
+    <th>with <a href="https://github.com/ajayyy/SponsorBlock">extension</a></th>
+    <th>with <a href="https://github.com/ajayyy/SponsorBlock">extension</a></th>
+    <th>✅</th>
+  </tr>
+  <tr>
+    <th>Subscriptions RSS</th>
+    <th>✅</th>
+    <th>❌</th>
+    <th>❌</th>
+    <th>❌</th>
+  </tr>
+  <tr>
+    <th>Per Channel RSS</th>
+    <th>✅</th>
+    <th>✅</th>
+    <th>❌</th>
+    <th>❌</th>
+  </tr>
+  <tr>
+    <th><a href="https://github.com/lbryio/lbry-desktop">LBRY</a> streaming</th>
+    <th>✅</th>
+    <th>❌</th>
+    <th>❌</th>
+    <th>❌</th>
+  </tr>
+  <tr>
+    <th>Watch on LBRY</th>
+    <th>✅</th>
+    <th>❌</th>
+    <th>❌</th>
+    <th>❌</th>
+  </tr>
+  <tr>
+    <th>Account Sync</th>
+    <th>✅</th>
+    <th>✅</th>
+    <th>❌</th>
+    <th>✅</th>
+  </tr>
+  <tr>
+    <th>Import/Export</th>
+    <th>✅</th>
+    <th>✅</th>
+    <th>✅</th>
+    <th>✅</th>
+  </tr>
+  <tr>
+    <th><a href="https://github.com/Anarios/return-youtube-dislike">Return Dislikes</a></th>
+    <th>✅</th>
+    <th>❌</th>
+    <th>❌</th>
+    <th>✅</th>
+  </tr>
+  <tr>
+    <th>User playlists</th>
+    <th>✅</th>
+    <th>✅</th>
+    <th>❌</th>
+    <th>❌</th>
+  </tr>
+  <tr>
+    <th>Watch History</th>
+    <th>✅ <br /> stored locally</th>
+    <th>✅ <br /> requires account</th>
+    <th>❌</th>
+    <th>❌</th>
+  </tr>
+  <tr>
+    <th>Works on ancient devices and browsers</th>
+    <th>❌</th>
+    <th>✅</th>
+    <th>✅</th>
+    <th>❌</th>
+  </tr>
+ </table>
 
 ## Applications
-| | [Freetube](https://github.com/FreeTubeApp/FreeTube) | [Yattee](https://github.com/yattee/yattee) | [NewPipe](https://github.com/TeamNewPipe/NewPipe)| [Libretube](https://github.com/libre-tube/LibreTube) |
-| :---: | :---: | :---: | :---: |  :---: |
-| Platforms | Desktop | Mac iOS tvOS | Android |  Android |
-| Open Source | ✅  | ✅  | ✅ |  ✅ |
-| Fast | :white_check_mark:| :x: | :white_check_mark:|  ✅ |
-| Subscriptions | :white_check_mark:| :white_check_mark: | :white_check_mark:| ✅ |
-| [Sponsorblock](https://github.com/ajayyy/SponsorBlock) | :white_check_mark: | :white_check_mark: |❌ | ✅ |
-| [LBRY](https://github.com/lbryio/lbry-desktop) streaming | :x: | :x: | :x: | ✅ |
-| Watch on LBRY | :x: | :x: | :x: | :x: |
-| Multi-Account| :white_check_mark:| ✅ <br /> requires login | :x: | ❌ |
-| Import/Export | :white_check_mark:| :x: |:white_check_mark:| ✅ |
-| [Return Dislikes](https://github.com/Anarios/return-youtube-dislike)| :x: | :x: | :x: | ✅ |
+<table>
+  <tr>
+    <th></th>
+    <th><a href="https://github.com/FreeTubeApp/FreeTube">Freetube</a></th>
+    <th><a href="https://github.com/yattee/yattee">Yattee</a></th>
+    <th><a href="https://github.com/TeamNewPipe/NewPipe">NewPipe</a></th>
+    <th><a href="https://github.com/libre-tube/LibreTube">Libretube</a></th>
+  </tr>
+  <tr>
+    <th>Platforms</th>
+    <th>Desktop</th>
+    <th>Mac, iOS & tvOS</th>
+    <th>Android</th>
+    <th>Android</th>
+  </tr>
+  <tr>
+    <th>Open Source</th>
+    <th>✅</th>
+    <th>✅</th>
+    <th>✅</th>
+    <th>✅</th>
+  </tr>
+  <tr>
+    <th>Fast</th>
+    <th>✅</th>
+    <th>❌</th>
+    <th>✅</th>
+    <th>✅</th>
+  </tr>
+  <tr>
+    <th>Subscriptions</th>
+    <th>✅</th>
+    <th>✅</th>
+    <th>✅</th>
+    <th>✅</th>
+  </tr>
+  <tr>
+    <th><a href="https://github.com/ajayyy/SponsorBlock">Sponsorblock</a></th>
+    <th>✅</th>
+    <th>✅</th>
+    <th>❌</th>
+    <th>✅</th>
+  </tr>
+  <tr>
+    <th><a href="https://github.com/lbryio/lbry-desktop">LBRY</a> streaming</th>
+    <th>❌</th>
+    <th>❌</th>
+    <th>❌</th>
+    <th>✅</th>
+  </tr>
+  <tr>
+    <th>Watch on LBRY</th>
+    <th>❌</th>
+    <th>❌</th>
+    <th>❌</th>
+    <th>❌</th>
+  </tr>
+  <tr>
+    <th>Multi-Account</th>
+    <th>✅</th>
+    <th>✅<br />requires login</th>
+    <th>❌</th>
+    <th>❌</th>
+  </tr>
+  <tr>
+    <th>Import/Export</th>
+    <th>✅</th>
+    <th>❌</th>
+    <th>✅</th>
+    <th>✅</th>
+  </tr>
+  <tr>
+    <th><a href="https://github.com/Anarios/return-youtube-dislike">Return Dislikes</a></th>
+    <th>❌</th>
+    <th>❌</th>
+    <th>❌</th>
+    <th>✅</th>
+  </tr>
+</table>
 
 ## Inspirations
 - [PrivacyTests](https://privacytests.org) - an open-source testing program that measures browser privacy characteristics
