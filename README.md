@@ -1,7 +1,7 @@
 <html>
   <header>
-# YouTube-Frontend-Comparison
-This repository serves as a central way to compare alternative frontends for YouTube
+    <h1>YouTube-Frontend-Comparison</h1>
+    <h2>This repository serves as a central way to compare alternative frontends for YouTube</h2>
   </header>
 ## Web Based
 <table>
