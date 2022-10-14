@@ -200,6 +200,10 @@
   </tr>
 </table>
 
+<h2>Mirror Repos</h2>
+  <a href="https://codeberg.org/Iron-Maltese/YouTube-Frontend-Comparison"> <img src="https://raw.githubusercontent.com/ManeraKai/manerakai/main/icons/codeberg.svg" alt="Codeberg Badge"></a>
+  <a href="https://github.com/IronMaltese/YouTube-Frontend-Comparison"> <img src="https://raw.githubusercontent.com/ManeraKai/manerakai/main/icons/github.svg" alt="Codeberg Badge"></a>
+
 <h2>Inspirations</h2>
   <ul>
     <li><a href="https://privacytests.org">PrivacyTests</a> - an open-source testing program that measures browser privacy characteristics </li>
