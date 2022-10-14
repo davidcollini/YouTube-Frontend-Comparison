@@ -8,7 +8,7 @@ This repository serves as a central way to compare alternative frontends for You
 | Subscriptions | :white_check_mark: | :white_check_mark: <br /> requires account |:white_check_mark:| :white_check_mark: <br /> requires account |
 | Comments | :white_check_mark:|:white_check_mark:| :x: | ✅ |
 | Javascript Optional |:x:|:white_check_mark:|:white_check_mark:| ✅ <br /> [Not every feature](https://github.com/ViewTube/viewtube-vue/issues/2#issuecomment-1057513500) |
-| [Sponsorblock](https://github.com/ajayyy/SponsorBlock)|:white_check_mark:| :white_check_mark: <br />with [extension](https://github.com/ajayyy/SponsorBlock)|:x:| :white_check_mark:|
+| [Sponsorblock](https://github.com/ajayyy/SponsorBlock)|:white_check_mark:|<br />with [extension](https://github.com/ajayyy/SponsorBlock)|:x:| :white_check_mark:|
 | Subscriptions RSS | :white_check_mark: |:x:|:x:| :x: |
 | Per Channel RSS | ✅ |:white_check_mark:|:x:| :x: |
 | [LBRY](https://github.com/lbryio/lbry-desktop) streaming | :white_check_mark: | :x: | :x: | :x: |
