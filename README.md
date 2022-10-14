@@ -1,14 +1,16 @@
-# YouTube-Frontend-Comparison
-This repository serves as a central way to compare alternative frontends for YouTube
-
-## Web Based
+<html>
+  <header>
+    <h1>YouTube Frontend Comparison</h1>
+    <h2>This repository serves as a central way to compare alternative frontends for YouTube</h2>
+  </header>
+  <h3>Web Based</h3>
 <table>
   <tr>
     <th> </th>
-    <th><a href="https://github.com/TeamPiped/Piped">Piped</a></th>
-    <th><a href="https://github.com/iv-org/invidious">Invidious</a></th>
-    <th><a href="https://sr.ht/~cadence/tube">Cloudtube</a></th>
-    <th><a href="https://github.com/ViewTube/viewtube-vue">Viewtube</a></th>
+    <th><a href="https://github.com/TeamPiped/Piped"><img src="https://piped.kavin.rocks/img/icons/logo.svg" alt="Piped Logo" width="36" height="36"> <br /> Piped</a></th>
+    <th><a href="https://github.com/iv-org/invidious"><img src="https://avatars.githubusercontent.com/u/68407447?s=200&v=4" alt="Invidious Logo" width="36" height="36"> <br /> Invidious</a></th>
+    <th><a href="https://sr.ht/~cadence/tube"><img src="https://d4.alternativeto.net/LgTu0hqbLtIwLPo9aOnT0GsEe13gbO_gI62NXbGKXY4/rs:fill:140:140:0/g:ce:0:0/YWJzOi8vZGlzdC9pY29ucy9jbG91ZHR1YmVfMTgzNzc0LnBuZw.png" alt="Cloudtube Logo" width="36" height="36"> <br /> Cloudtube</a></th>
+    <th><a href="https://github.com/ViewTube/viewtube-vue"><img src="https://raw.githubusercontent.com/ViewTube/viewtube-vue/stable/.github/images/logo.png" alt="Viewtube Logo" width="36" height="36"> <br /> Viewtube</a></th>
   </tr>
   <tr>
     <th>Fast</th>
@@ -121,10 +123,10 @@ This repository serves as a central way to compare alternative frontends for You
 <table>
   <tr>
     <th></th>
-    <th><a href="https://github.com/FreeTubeApp/FreeTube">Freetube</a></th>
-    <th><a href="https://github.com/yattee/yattee">Yattee</a></th>
-    <th><a href="https://github.com/TeamNewPipe/NewPipe">NewPipe</a></th>
-    <th><a href="https://github.com/libre-tube/LibreTube">Libretube</a></th>
+    <th><a href="https://github.com/FreeTubeApp/FreeTube"><img src="https://d4.alternativeto.net/KkMBv9B_9P1FqX3bAQtctUokliW48xGKe1j_Y5aIGjY/rs:fill:140:140:0/g:ce:0:0/YWJzOi8vZGlzdC9pY29ucy9mcmVldHViZV8xMjcyMDYucG5n.png" alt="Freetube Logo" width="36" height="36"> <br /> Freetube </a></th>
+    <th><a href="https://github.com/yattee/yattee"><img src="https://camo.githubusercontent.com/5acbbe712241861ba5c9fd0011e702f577b661f499f1fc7ffbcca32f37f4320c/68747470733a2f2f722e7961747465652e73747265616d2f69636f6e732f7961747465652d3135302e706e67" alt="Yattee Logo" width="36" height="36"><br /> Yattee</a></th>
+    <th><a href="https://github.com/TeamNewPipe/NewPipe"><img src="https://github.com/TeamNewPipe/NewPipe/raw/dev/assets/new_pipe_icon_5.png" alt="Newpipe Logo" width="36" height="36"><br /> NewPipe</a></th>
+    <th><a href="https://github.com/libre-tube/LibreTube"><img src="https://avatars.githubusercontent.com/u/96022078?s=200&v=4" alt="Libretube Logo" width="36" height="36"><br /> Libretube</a></th>
   </tr>
   <tr>
     <th>Platforms</th>
@@ -201,3 +203,4 @@ This repository serves as a central way to compare alternative frontends for You
 ## Inspirations
 - <a href="https://privacytests.org">PrivacyTests</a> - an open-source testing program that measures browser privacy characteristics
 - <a href="https://www.securemessagingapps.com">SecureMessagingApps</a> - a comprehensive website that reviews and compares the security/privacy of messaging apps 
+</html>
