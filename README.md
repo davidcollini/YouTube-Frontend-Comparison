@@ -1,6 +1,8 @@
+<html>
+  <header>
 # YouTube-Frontend-Comparison
 This repository serves as a central way to compare alternative frontends for YouTube
-
+  </header>
 ## Web Based
 <table>
   <tr>
@@ -201,3 +203,4 @@ This repository serves as a central way to compare alternative frontends for You
 ## Inspirations
 - <a href="https://privacytests.org">PrivacyTests</a> - an open-source testing program that measures browser privacy characteristics
 - <a href="https://www.securemessagingapps.com">SecureMessagingApps</a> - a comprehensive website that reviews and compares the security/privacy of messaging apps 
+</html>
