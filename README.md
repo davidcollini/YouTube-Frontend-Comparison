@@ -109,7 +109,7 @@ This repository serves as a central way to compare alternative frontends for You
     <th>❌</th>
   </tr>
   <tr>
-    <th>supports ancient browsers</th>
+    <th>Supports ancient browsers</th>
     <th>❌</th>
     <th>✅</th>
     <th>✅</th>
