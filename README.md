@@ -112,7 +112,7 @@
   </tr>
   <tr>
     <th>Supports ancient browsers</th>
-    <th>✅ <br /> not abandoned browsers</th>
+    <th>✅ <br /> <a href="https://github.com/IronMaltese/YouTube-Frontend-Comparison/pull/4#issuecomment-1279854489">not abandoned browsers </a> </th>
     <th>✅</th>
     <th>✅</th>
     <th>❌</th>
