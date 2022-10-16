@@ -112,7 +112,7 @@
   </tr>
   <tr>
     <th>Supports ancient browsers</th>
-    <th>✅</th>
+    <th>✅ <br /> not abandoned browsers</th>
     <th>✅</th>
     <th>✅</th>
     <th>❌</th>
