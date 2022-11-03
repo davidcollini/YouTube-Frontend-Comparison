@@ -1,12 +1,35 @@
-<html>
-  <header>
-    <h1>YouTube Frontend Comparison</h1>
-    <h2>This repository serves as a central way to compare alternative frontends for YouTube</h2>
-  </header>
-  <h3>Web Based</h3>
-<table>
-  <tr>
-    <th> </th>
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <style>
+    h1 {text-align: center;}
+    p {text-align: center;}
+    h3 {text-align: center;}
+    table.Web-Based {
+      border: 1px solid black;
+      border-collapse: collapse;
+    }
+    table.Web-Based {
+      background-color: gray;
+      margin-left: auto;
+      margin-right: auto;
+    }
+    </style>
+  </head>
+  
+  <body>
+  <h1>YouTube Frontend Comparison</h1>
+  <p>This repository serves as a central way to compare alternative frontends for YouTube</p>
+  </body>
+  
+<table class ="Web-Based">
+  <tbody>
+    <tr>
+      <th class="table-header" style="text-transform: capitalize;"> 
+        <h1 class = "title">
+          <div class = "table-title">Web Based</div>
+        </h1>
+      </th>
     <th><a href="https://github.com/TeamPiped/Piped"><img src="https://piped.kavin.rocks/img/icons/logo.svg" alt="Piped Logo" width="36" height="36"> <br /> Piped</a></th>
     <th><a href="https://github.com/iv-org/invidious"><img src="https://avatars.githubusercontent.com/u/68407447?s=200&v=4" alt="Invidious Logo" width="36" height="36"> <br /> Invidious</a></th>
     <th><a href="https://sr.ht/~cadence/tube"><img src="https://d4.alternativeto.net/LgTu0hqbLtIwLPo9aOnT0GsEe13gbO_gI62NXbGKXY4/rs:fill:140:140:0/g:ce:0:0/YWJzOi8vZGlzdC9pY29ucy9jbG91ZHR1YmVfMTgzNzc0LnBuZw.png" alt="Cloudtube Logo" width="36" height="36"> <br /> Cloudtube</a></th>
@@ -118,11 +141,13 @@
     <th>❌</th>
   </tr>
  </table>
-
-## Applications
 <table>
   <tr>
-    <th></th>
+    <th class="table-header" style="text-transform: capitalize;"> 
+      <h1 class = "title">
+        <div class = "table-title">Applications</div>
+      </h1>
+    </th>
     <th><a href="https://github.com/FreeTubeApp/FreeTube"><img src="https://d4.alternativeto.net/KkMBv9B_9P1FqX3bAQtctUokliW48xGKe1j_Y5aIGjY/rs:fill:140:140:0/g:ce:0:0/YWJzOi8vZGlzdC9pY29ucy9mcmVldHViZV8xMjcyMDYucG5n.png" alt="Freetube Logo" width="36" height="36"> <br /> Freetube </a></th>
     <th><a href="https://github.com/yattee/yattee"><img src="https://camo.githubusercontent.com/5acbbe712241861ba5c9fd0011e702f577b661f499f1fc7ffbcca32f37f4320c/68747470733a2f2f722e7961747465652e73747265616d2f69636f6e732f7961747465652d3135302e706e67" alt="Yattee Logo" width="36" height="36"><br /> Yattee</a></th>
     <th><a href="https://github.com/TeamNewPipe/NewPipe"><img src="https://github.com/TeamNewPipe/NewPipe/raw/dev/assets/new_pipe_icon_5.png" alt="Newpipe Logo" width="36" height="36"><br /> NewPipe</a></th>
@@ -198,6 +223,7 @@
     <th>❌</th>
     <th>✅</th>
   </tr>
+  </tbody>
 </table>
 
 ## Inspirations
